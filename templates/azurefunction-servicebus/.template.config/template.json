@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Oscar van Tol",
+    "classifications": [ "Common", "Azure Functions Project", "ServiceBus" ],
+    "identity": "AzureFunctionTemplates.ExampleServiceBusFunction",
+    "name": "AzureFunctionTemplates: ServiceBus Function",
+    "shortName": "azurefunction-servicebus",
+    "tags": {
+      "language": "C#",
+      "type": "item"
+    },
+    "sourceName": "DependencyInjectionExample"
+  }

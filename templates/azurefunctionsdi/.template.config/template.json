@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Oscar van Tol",
+    "classifications": [ "Common", "Azure Functions Project", "DI" ],
+    "identity": "AzureFunctionTemplates.DependencyInjectionProject",
+    "name": "AzureFunctionTemplates: dependency injection project",
+    "shortName": "azurefunctionsdi",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    },
+    "sourceName": "DependencyInjectionExample",
+    "preferNameDirectory": true
+  }
